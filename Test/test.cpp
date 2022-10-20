@@ -6,13 +6,11 @@
  */
 
 #include "test.h"
+#include <iostream>
 
-test::test() {
-	// TODO Auto-generated constructor stub
+using namespace std;
 
+int main(){
+	cout << "Hello 4155!" << endl;
+	return 0;
 }
-
-test::~test() {
-	// TODO Auto-generated destructor stub
-}
-
